@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/azmad.lwc-l6f7l81h",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve I7fL1ldFlSsk43T08TEK --open"
+  }
+}
